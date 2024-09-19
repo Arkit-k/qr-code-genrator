@@ -1,0 +1,18 @@
+{
+  "name": "superhero",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "file-system": "^2.2.2",
+    "inquirer": "^11.0.2",
+    "qr-image": "^3.2.0",
+    "superheroes": "^4.0.0"
+  }
+}
